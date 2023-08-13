@@ -1,4 +1,4 @@
-# Improved SCCM Script
+# powershell script v1
 
 # Initialize variables
 $workingDirectory = "C:\temp\powershell"
